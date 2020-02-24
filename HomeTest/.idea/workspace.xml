@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ccc7fbd-3e95-4a2b-b5f7-d933618ef3ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YCMqluvsKgZ36EhY4g6MvuIWzL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.SeleniumTest.pageFactoryYMarket">
+    <configuration name="SeleniumTest.gladiolus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.PO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium.PO" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.PO.SeleniumTest" />
+      <option name="METHOD_NAME" value="gladiolus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.googleOpenRuTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.PO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium.PO" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.PO.SeleniumTest" />
+      <option name="METHOD_NAME" value="googleOpenRuTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.pageFactoryYMarket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.PO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium.PO" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.PO.SeleniumTest" />
+      <option name="METHOD_NAME" value="pageFactoryYMarket" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SeleniumTest.pageFactoryYMarket" />
+        <item itemvalue="JUnit.SeleniumTest.googleOpenRuTest" />
+        <item itemvalue="JUnit.SeleniumTest.gladiolus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ccc7fbd-3e95-4a2b-b5f7-d933618ef3ce" name="Default Changelist" comment="" />
+      <created>1582442315909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582442315909</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1582442666079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582442666079" />
+    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1582444063348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582444063348" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1582550341313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582550341313" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1582482145695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582482145695" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1582482145695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582482145695" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1582482145695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582482145695" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1582482145695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582482145695" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1582482145695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582482145695" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1582482145695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582482145695" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1582482145695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582482145695" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1582482145695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582482145695" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1582447891816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582447891816" />
+    <state x="342" y="216" key="new project wizard" timestamp="1582533016175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="216" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582533016175" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1582471883705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582471883705" />
+  </component>
+</project>
